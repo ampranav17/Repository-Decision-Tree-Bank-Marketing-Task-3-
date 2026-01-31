@@ -28,8 +28,8 @@ Financial factors like housing and personal loans influence decisions
 
 Python, Pandas, Scikit-learn, Matplotlib
 
-<img width="1919" height="1079" alt="Screenshot 2026-01-17 200628" src="https://github.com/user-attachments/assets/007f9b37-d5c0-4fd6-9d3a-e3cb3112eb27" />
-
 🔹 Outcome
 
 Learned supervised machine learning, model training, and evaluation techniques.
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-17 200628" src="https://github.com/user-attachments/assets/ef80398e-3673-4ab0-b8aa-367c2b8f41ea" />
